@@ -16,9 +16,17 @@ An offline Windows strategy game on a hex map, made with Unreal Engine. The proj
 
 ## Prishelets — A New Home for the Alien
 
-A Godot survival-game prototype about an alien who crash-lands on Earth and learns to use local resources. The current work includes a test scene, movement, inspection, inventory and early hand crafting. Art in this screenshot is temporary prototype art, and the screenshot shows an earlier hand-crafting build.
+A Godot survival-game prototype about an alien who crash-lands on Earth and learns to use local resources. The current work includes a test scene, movement, inspection, inventory and early hand crafting.
+
+**Approved art direction:** the following concept illustration shows the visual style selected for the project. It is an artistic reference, not a screenshot of a playable build; the character and scene are illustrative.
+
+![Prishelets approved art direction, concept illustration](images/prishelets-art-direction.png)
+
+**Early technical prototype:** the screenshot below is one of the early placeholder builds, kept to show the project's starting point. Its temporary artwork is not the selected visual direction.
 
 ![Early Prishelets inventory and crafting prototype](images/alien-inventory.png)
+
+[See an approved item-design selection](docs/prishelets.md#selected-item-design).
 
 The game is in development, not released. The source and build are not included in this showcase. An automated hand-crafting check failed in the inspected local version, so this page does not claim the prototype is fully verified. See [the project note](docs/prishelets.md) for scope, future design and an example of the documentation process.
 

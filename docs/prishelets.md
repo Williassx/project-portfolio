@@ -12,6 +12,12 @@ The inspected project contains a test scene, a player and camera, a crashed ship
 
 A local movement/camera check and a hand-crafting check were attempted on 2 November 2026. The movement/camera check passed. The hand-crafting check failed because its expected snapshot did not account for a `winter` field. The cause and impact have not been investigated in this portfolio audit.
 
+## Selected item design
+
+This original concept sheet records an approved selection for the stick: world variants 1 and 2 and inventory icon 2. The other variants remain visible as context; the sheet is concept art, not proof of an implemented asset.
+
+![Stick design options, with world 1 and 2 and icon 2 selected](../images/prishelets-stick-designs.png)
+
 ## Design example: from manual work to production
 
 *Adapted and condensed from the project's Obsidian design note on manual actions, campfires and early workstations. This describes a design direction, not a claim that all steps are implemented.*
