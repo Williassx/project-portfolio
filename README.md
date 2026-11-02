@@ -22,6 +22,12 @@ A Godot survival-game prototype about an alien who crash-lands on Earth and lear
 
 ![Prishelets approved art direction, concept illustration](images/prishelets-art-direction.png)
 
+**Gameplay visual concepts:** these illustrations explore the intended look of woodcutting and mining. They were generated as visual targets; they are not captures from a playable build and do not establish that the depicted interactions or interface are implemented.
+
+![Concept of woodcutting in the forest](images/prishelets-woodcutting-concept.png)
+
+![Concept of mining in rocky terrain](images/prishelets-mining-concept.png)
+
 **Early technical prototype:** the screenshot below is one of the early placeholder builds, kept to show the project's starting point. Its temporary artwork is not the selected visual direction.
 
 ![Early Prishelets inventory and crafting prototype](images/alien-inventory.png)
